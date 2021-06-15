@@ -20,7 +20,7 @@ function pressIt() {
 }
 
 function submitIt() {
-  $('#')
+  $('input:submit').
 }
 
 $(document).ready(function(){
